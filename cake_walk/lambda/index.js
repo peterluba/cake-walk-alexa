@@ -15,8 +15,6 @@ const LaunchRequestHandler = {
             .reprompt(repromptText)
             .getResponse();
             //test comment
-            //another test comment
-            //another change
     }
 };
 const CaptureBirthdayIntentHandler = {
